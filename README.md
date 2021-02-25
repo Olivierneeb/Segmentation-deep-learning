@@ -16,7 +16,7 @@ Vue aérienne de plusieurs prises
 
 Output du réseau de la même grille de vue 
 
-<img src = "images/ouput_reseau.png"> 
+<img src = "images/output_reseau.png"> 
 
 Carte des différence entre sortie du réseau et label
 
